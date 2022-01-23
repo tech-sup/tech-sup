@@ -6,8 +6,8 @@
 
 ## I'm a  Researcher , Content Creator , Blogger
 
-- 💬 Ask me about python, Hacking, Penetration Testing ,bug bounty.
-
+- 💬 Ask me about python, Hacking, Penetration Testing , bug bounty.
+ 
 - 📫 Reach me at nazpachst@gmail.com
 
 <!--
