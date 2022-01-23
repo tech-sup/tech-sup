@@ -1,10 +1,11 @@
 ### Hi there, I'm Naeem nazer 👋
 
+[![Website](https://img.shields.io/website?label=technorabit.unaux.com&style=for-the-badge&url=https%3A%2F%2Fdevilslab.in)](https://technorabit.unaux.com)
 
 
 ## I'm a Cyber Security Researcher , BHH , Content Creator , Blogger
 
-- 💬 Ask me about Shell Scripting, Hacking, Penetration Testing.
+- 💬 Ask me about python, Hacking, Penetration Testing.
 
 - 📫 Reach me at nazpachst@gmail.com
 
@@ -22,15 +23,14 @@
 
 
 
-<a href="http://tech-sup.unaux.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="teh-sup" height="30" width="40" /></a> 
+<a href="http://tech-sup.unaux.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="tech-sup" height="30" width="40" /></a> 
 
 <a href="https://instagram.com/naeem_nazer._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.v.shnu" height="30" width="40" /></a>
 
-<a href="https://tech-sup.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="tech-sup" height="30" width="40" /></a>
+<a href="https://https://medium.com/@nazpachst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nazpachst" height="30" width="40" /></a>
 
 
 
+<br />
 
-
-<p><a href="https:/https://www.buymeacoffee.com/nazpachstV"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nazpachstV" /></a></p>
-
+<p><a href="https://https://www.buymeacoffee.com/nazpachstV"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nazpachstV" /></a></p>
