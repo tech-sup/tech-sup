@@ -4,7 +4,7 @@
 
 
 
-## I'm a  Researcher , BHH , Content Creator , Blogger
+## I'm a  Researcher , Content Creator , Blogger
 
 - 💬 Ask me about python, Hacking, Penetration Testing.
 
