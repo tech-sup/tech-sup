@@ -1,6 +1,7 @@
 ### Hi there, I'm Naeem nazer 👋
 
-[![Website](https://img.shields.io/website?label=tech-sup.unaux.com&style=for-the-badge&url=https%3A%2F%2Fdevilslab.in)](https://tech-sup.unaux.com)
+
+
 
 
 ## I'm a  Researcher , BHH , Content Creator , Blogger
