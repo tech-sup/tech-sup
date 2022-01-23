@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi there, I'm Naeem nazer 👋
+
+
+
+## I'm a Cyber Security Researcher , BHH , Content Creator , Blogger
+
+- 💬 Ask me about Shell Scripting, Hacking, Penetration Testing.
+
+- 📫 Reach me at nazpachst@gmail.com
 
 <!--
-**tech-sup/tech-sup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate with other content creators
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥅 2020 Goals: 
+
+- ⚡ Fun fact: 
+
+--> 
+
+### Connect with me:
+
+
+
+<a href="http://tech-sup.unaux.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="teh-sup" height="30" width="40" /></a> 
+
+<a href="https://instagram.com/naeem_nazer._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.v.shnu" height="30" width="40" /></a>
+
+<a href="https://tech-sup.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="tech-sup" height="30" width="40" /></a>
+
+
+
+
+
+<p><a href="https://www.buymeacoffee.com/tech-sup"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tech-sup" /></a></p>
+
