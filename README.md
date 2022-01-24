@@ -24,7 +24,7 @@
 
 
 
-<a href="http://tech-sup.unaux.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="tech-sup" height="30" width="40" /></a> 
+<a href="https://github.com/tech-sup" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="tech-sup" height="30" width="40" /></a> 
 <a href="https://instagram.com/naeem_nazer._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.v.shnu" height="30" width="40" /></a>
 <a href=https://medium.com/@nazpachst target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nazpachst" height="30" width="40" /></a>
 
